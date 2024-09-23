@@ -290,3 +290,8 @@
 [05:36:01] [Server thread/INFO]: Host tried to swim in lava
 [05:36:10] [Server thread/INFO]: Host lost connection: Disconnected
 [05:36:10] [Server thread/INFO]: Host left the game.
+[05:37:44] [Thread-19/INFO]: UUID of player Host is a5316c88-2c08-3763-a815-ea730b4e4b7f
+[05:37:44] [Server thread/INFO]: Host[/[0:0:0:0:0:0:0:1]:49524] logged in with entity id 4144 at ([world]-43.5, 70.0, 193.5)
+[05:38:08] [Server thread/INFO]: Host issued server command: /gamemode creative
+[05:38:11] [Server thread/INFO]: Host lost connection: Disconnected
+[05:38:11] [Server thread/INFO]: Host left the game.
